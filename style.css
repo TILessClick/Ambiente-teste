@@ -61,7 +61,7 @@ form {
     flex-direction: column;
     align-items: center;
     background-color: #97999B;
-    height: 530px;
+    height: 540px;
     font-family: sans-serif;
     width: 500px;
     margin-top: 100px;
@@ -105,7 +105,7 @@ span {
 
 p.obs {
     font-family: 'Poppins', sans-serif;
-    font-size: 10px;
+    font-size: 12.5px;
     margin-bottom: 2px;
     color: #333333;
 }
