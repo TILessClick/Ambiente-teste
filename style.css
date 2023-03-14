@@ -81,6 +81,10 @@ form {
     text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.5);
 }
 
+span {
+    color: #9B26B6;
+}
+
 /* Estilo para o placeholder */
 .input-field::placeholder {
     color: #999;
